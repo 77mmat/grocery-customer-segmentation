@@ -1,8 +1,7 @@
 # Customer Segmentation Using PCA, K-Means, and RFM Analysis
 
+The core machine-learning workflow is implemented from scratch without using pre-built scikit-learn algorithms, including PCA, K-Means clustering, and the elbow method. They are implemented manually to demonstrate their underlying logic
 This repository contains the code appendix for a customer segmentation project based on grocery customer and marketing campaign data. The analysis combines data cleaning, feature engineering, dimensionality reduction, clustering, customer profiling, visualisation, and computational complexity testing.
-
-The main algorithms, including PCA and K-Means, are implemented manually to demonstrate their underlying logic rather than relying entirely on pre-built machine-learning implementations.
 
 ## Dataset
 
